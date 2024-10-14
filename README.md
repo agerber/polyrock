@@ -1,9 +1,9 @@
 
-# rosetta stone - the asteroids reference project
+# PolyRock - asteroids code translations
 This repo contains the asteroids reference project translated into the following languages: 
 
 [Completed]: Java, Kotlin, Python, and Typescript
-[Under development]: Swift, C++, Rust, GoLang, COBOL
+[Under development]: C++, Rust, GoLang
 
 ## add the submodules
 
@@ -17,8 +17,7 @@ This repo contains the asteroids reference project translated into the following
     # "asteroids_go" 
     # "asteroids_cpp" 
     # "asteroids_rust" 
-    # "asteroids_swift"
-    # "asteroids_cobol"
+
   )
 
   base_url="git@github.com:agerber"
