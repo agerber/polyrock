@@ -2,15 +2,15 @@
 # PolyRock - asteroids code translations
 This repo contains the asteroids reference project translated into the following languages: 
 
-[Completed]: Java, Kotlin, Python, and Typescript
-[Under development]: C++, Rust, GoLang
+[Completed]: Java, Kotlin, Python, GoLang, and Typescript
+[Under development]: C++, Rust 
 
 ## add the submodules
 
 ```bash
   
   repos=(
-    "asteroids_java" 
+    "asteroids_java"
     "asteroids_kotlin" 
     "asteroids_python" 
     "asteroids_typescript" 
