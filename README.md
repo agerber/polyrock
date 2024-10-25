@@ -14,7 +14,7 @@ This repo contains the asteroids reference project translated into the following
     "asteroids_kotlin" 
     "asteroids_python" 
     "asteroids_typescript" 
-    # "asteroids_go" 
+    "asteroids_go" 
     # "asteroids_cpp" 
     # "asteroids_rust" 
 
